@@ -1,0 +1,1 @@
+pyinstaller --onefile --hidden-import pandas --hidden-import os --hidden-import art --hidden-import openpyxl XLTransfer.py
